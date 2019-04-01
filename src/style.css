@@ -1,0 +1,33 @@
+
+.title{
+color: white;
+background-color: black;
+text-align: center;
+
+}
+.display-counter{
+    margin-left: 500px;
+    width: 273px;
+    height: 200px;
+    font-size: 72pt;
+    text-align: center;
+}
+.button{
+    height: 92px;
+    width: 92px;
+    font-size: 30pt;
+    color:white;
+    font:bold;
+}
+.button-margin{
+    margin-left: 37%;
+}
+.green{
+    background-color: darkgreen;
+}
+.orange{
+    background-color:orange;
+}
+.red{
+    background-color:darkred;
+}
